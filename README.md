@@ -82,3 +82,6 @@ To further enhance model performance and robustness:
 ```bash
 # Example installation commands (adjust as needed)
 pip install tensorflow numpy matplotlib
+
+# Example command to run training or prediction script
+python train_model.py --data_path /path/to/dataset
